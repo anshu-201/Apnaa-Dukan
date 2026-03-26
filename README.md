@@ -1,7 +1,7 @@
 # 🛒 Apnaa Dukan
 
 Apnaa Dukan is a modern ecommerce website project built using **HTML, CSS, and JavaScript**.
-It provides a clean UI and smooth shopping experience with product listings, cart functionality, and responsive design.
+It provides a clean UI and smooth shopping experience with product listings, cart functionality, and responsive design for mobile and Tab.
 
 ---
 
